@@ -225,9 +225,6 @@ footer {
 
 
 @media (max-width: 640px) {
-  body {
-    background: #000;
-  }
   .search-box {
     width: 95%;
     min-width: unset;
