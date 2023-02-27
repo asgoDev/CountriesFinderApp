@@ -49,7 +49,7 @@ body {
   max-width: 630px;
   margin: 0 auto;
 
-  background-image: url(./images/header-image.png);
+  background-image: url('./images/header-image.png');
   background-position: 50% 110%;
   background-size: 70%;
   background-repeat: no-repeat;
